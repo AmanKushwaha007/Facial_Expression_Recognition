@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ea8f7fc-b060-41fb-80ea-b35045ade851" name="Changes" comment="Added a image file.">
-      <change afterPath="$PROJECT_DIR$/_Test/Check2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Detect_Same_Images_in_Bigger_Image/DetectSameImages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Test/Check1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/ImageToEmotions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Test/Check2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/Check2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Test/ImageToEmotions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_to_Emotions_in_Values/ImageToEmotions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Test/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_to_Emotions_in_Values/image.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AmanKushwaha007"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AmanKushwaha007&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmanKushwaha007/Facial_Expression_Recognition.git",
-    "accountId": "e1277a14-0fa5-4a35-9a04-dd6916d1459e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmanKushwaha007/Facial_Expression_Recognition.git&quot;,
+    &quot;accountId&quot;: &quot;e1277a14-0fa5-4a35-9a04-dd6916d1459e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lQXbJfWCVEEZVaJKbGtq2tkget" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Check1.executor": "Run",
+    "Python.Check2.executor": "Run",
     "Python.ImageToEmotions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -51,6 +53,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Facial Expression Detection With Python\pythonProject\_Test" />
+      <recent name="D:\Projects\Facial Expression Detection With Python\pythonProject\Detect_Same_Images_in_Bigger_Image" />
+      <recent name="D:\Projects\Facial Expression Detection With Python\pythonProject\Detect Same Images in Bigger Image " />
+      <recent name="D:\Projects\Facial Expression Detection With Python\pythonProject\Image to Emotions in Values" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -93,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725114626454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a image file.">
+      <option name="closed" value="true" />
+      <created>1725118398652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725118398652</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
