@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea8f7fc-b060-41fb-80ea-b35045ade851" name="Changes" comment="This is a starting with the checking online resources.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ea8f7fc-b060-41fb-80ea-b35045ade851" name="Changes" comment="Added a image file.">
+      <change afterPath="$PROJECT_DIR$/_Test/Check2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Test/Check1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/Check1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Test/Check1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/ImageToEmotions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_Test/image.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AmanKushwaha007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AmanKushwaha007/Facial_Expression_Recognition.git",
+    "accountId": "e1277a14-0fa5-4a35-9a04-dd6916d1459e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -29,11 +42,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Check1.executor": "Run",
+    "Python.ImageToEmotions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Facial Expression Detection With Python\pythonProject\_Test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,11 +77,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725113678917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a file.">
+      <option name="closed" value="true" />
+      <created>1725114583571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725114583571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a image file.">
+      <option name="closed" value="true" />
+      <created>1725114626454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725114626454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a starting with the checking online resources." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a starting with the checking online resources." />
+    <MESSAGE value="Added a file." />
+    <MESSAGE value="Added a image file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a image file." />
   </component>
 </project>
